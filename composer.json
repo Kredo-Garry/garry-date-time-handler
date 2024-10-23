@@ -1,6 +1,6 @@
 {
     "name": "garry/garry-date-time-handler",
-    "description": "This will display the current date and time",
+    "description": "This will display the current date and time. To install run: composer require garry/garry-date-time-handler:dev-main",
     "type": "library",
     "license": "MIT",
     "autoload": {
