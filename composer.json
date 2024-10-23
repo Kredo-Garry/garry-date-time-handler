@@ -1,0 +1,17 @@
+{
+    "name": "garry/garry-date-time-handler",
+    "description": "This will display the current date and time",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Garry\\GarryDateTimeHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kredo-Garry",
+            "email": "kredoteacher.grodriguez@gmail.com"
+        }
+    ],
+    "require": {}
+}
